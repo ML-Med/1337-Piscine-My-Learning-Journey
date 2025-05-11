@@ -5,3 +5,4 @@ Commit at week 0, day 0
 Commit at week 0, day 0
 Commit at week 0, day 0
 Commit at week 0, day 1
+Commit at week 0, day 1
