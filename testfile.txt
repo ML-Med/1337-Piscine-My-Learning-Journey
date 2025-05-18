@@ -36,3 +36,4 @@ Commit at week 0, day 6
 Commit at week 0, day 6
 Commit at week 1, day 1
 Commit at week 1, day 1
+Commit at week 1, day 1
