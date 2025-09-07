@@ -32,7 +32,7 @@ void ft_print_comb(void)
       while (c <= '9')
       {
             ft_print_numbers(a,b,c);
-           c++;
+            c++;
       }
       b++;
     }
