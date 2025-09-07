@@ -1,69 +1,58 @@
-42 Piscine – C Programming & Shell Scripting
+# 42 Piscine – My Learning Journey  
 
-This repository contains my work and learning journey from the 1337 / 42 Piscine, where I practiced intensive C programming and Shell scripting.
+This repository is a collection of what I learned during the **1337 / 42 Piscine**.  
+It reflects my progress in **C programming** and **Shell scripting**, with a focus on building real problem-solving skills.  
 
-The projects here focus on mastering the fundamentals of low-level programming, memory management, and automation through the Unix shell.
+---
 
-📚 What’s Inside
-🔹 C Programming
+## 🧑‍💻 C Programming – What I Learned  
 
-Understanding data types and variables
+- Working with **variables and data types**  
+- Writing **functions** to organize code  
+- Manipulating **arrays and strings** manually  
+- Using **structures** for grouped data  
+- Understanding **pointers** and memory addressing  
+- Allocating and freeing memory with **`malloc`** and **`free`**  
+- Handling **files** with `open`, `read`, `write`, `close`  
+- Discovering **system calls** and process basics  
 
-Implementing functions and modular code
+---
 
-Working with arrays and strings
+## 🐚 Shell Scripting – What I Learned  
 
-Using structures to organize data
+- Writing **simple and advanced shell scripts**  
+- Using **conditions, loops, and variables** in Bash  
+- Working with **permissions, redirections, and pipes**  
+- Automating repetitive tasks in the shell  
+- Managing environments and processes more efficiently  
 
-Mastering pointers and memory addressing
+---
 
-Dynamic memory allocation (malloc, free)
+## ⚡ Key Takeaways  
 
-File operations (open, read, write, close)
+- I improved my **debugging skills** (finding and fixing errors step by step)  
+- I learned to **respect coding standards** with the 42 Norm  
+- I trained myself to **think algorithmically** instead of guessing  
+- I got comfortable using **Unix/Linux tools** in daily work  
+- I learned how to **work under time pressure** and stay consistent  
 
-System calls and process management
+---
 
-🔹 Shell Scripting
+## 🛠️ Tools I Used  
 
-Writing basic and advanced shell scripts
+- **gcc** for compiling  
+- **make / Makefile** for project builds  
+- **nano / vim** for editing  
+- **bash / zsh** for scripting  
+- **norminette** for style checking  
 
-Automating repetitive tasks
+---
 
-Managing environments and processes
+## 🚀 Reflection  
 
-Using redirections, pipes, and permissions
+This Piscine wasn’t just about syntax.  
+It was about **learning how to learn**, solving problems through logic, and pushing myself every day.  
 
-Applying scripting to project workflows
+---
 
-🚀 Goals of the Piscine
-
-Build a solid foundation in C programming
-
-Develop problem-solving and debugging skills
-
-Learn how to think algorithmically
-
-Gain confidence with Unix/Linux tools
-
-Apply Shell scripting for real-world automation
-
-🛠️ Tools & Environment
-
-Ubuntu / Linux (1337 school PCs)
-
-gcc compiler
-
-make / Makefile for project builds
-
-vim / nano for code editing
-
-bash / zsh for shell scripting
-
-📌 Notes
-
-All code follows the 42 Norm (Norminette) coding standards
-
-Only allowed functions were used in projects (e.g., write() instead of printf())
-
-Exercises were completed under Piscine time constraints
-
+👉 This repo is my **proof of progress** — it shows what I practiced and the foundations I built for the rest of my programming journey.  
