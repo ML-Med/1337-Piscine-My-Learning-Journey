@@ -1,4 +1,4 @@
-# 42 Piscine – My Learning Journey  
+# 1337 Piscine – My Learning Journey  
 
 This repository is a collection of what I learned during the **1337 / 42 Piscine**.  
 It reflects my progress in **C programming** and **Shell scripting**, with a focus on building real problem-solving skills.  
