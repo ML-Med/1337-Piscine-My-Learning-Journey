@@ -25,9 +25,10 @@ void ft_putnbr(int nb)
   ft_putchar((nb % 10) + '0');
 }
 
+//dont add the main
 int main()
 {
-  ft_putnbr(-345);
+  ft_putnbr();
   ft_putchar('\n');
   return 0;
 }
