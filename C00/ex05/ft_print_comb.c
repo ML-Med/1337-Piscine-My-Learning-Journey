@@ -15,6 +15,7 @@ void ft_print_numbers(char a,char b,char c)
     ft_putchar(',');
     ft_putchar(' ');
   }
+  ft_putchar('\n');
 }
 
 void ft_print_comb(void)
@@ -40,10 +41,9 @@ void ft_print_comb(void)
   }
 
 }
-
+//dont push teh main ft to vogsphere
 int main()
 {
   ft_print_comb();
-  ft_putchar('\n');
   return 0;
 }
