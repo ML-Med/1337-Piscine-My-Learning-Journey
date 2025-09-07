@@ -33,11 +33,12 @@ void ft_print_comb2(void)
     }
     a++;
   }
+  ft_putchar('\n');
 }
 
 int main()
 {
   ft_print_comb2();
-  ft_putchar('\n');
+
   return 0;
 }
