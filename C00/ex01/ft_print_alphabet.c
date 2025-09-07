@@ -13,7 +13,7 @@ void ft_print_alphabet(void)
     ft_putchar(x);
     x++;
   }
-  write (1,"\n",1);
+  ft_putchar('\n');
 }
 
 int main()
